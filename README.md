@@ -1,4 +1,5 @@
 # astrophysics-display
-code for astrophysics general relativity exhibit
+code for astrophysics general relativity exhibit<br/>
+This was a physical display showing the curved path of light around a black hole (using a neopixel chaser animation), and Einstein' Happiest Thought through elevators powered by a stepper motor.
 
 ![schematic](./astro-display.png)
